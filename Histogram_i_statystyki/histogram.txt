@@ -1,0 +1,14 @@
+It's horizontal histagram of uploaded data.
+
+range
+1   X  X  
+2   
+3   X  
+4   X  X  
+5   X  X  X  X  X  
+6   X  
+7   
+8   
+9   X  X  
+    1  2  3  4  5  
+        amount

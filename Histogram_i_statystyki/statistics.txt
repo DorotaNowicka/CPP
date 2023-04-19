@@ -1,0 +1,18 @@
+Statistic of data from uploaded data.
+
+Average = 4.94362
+Deviation = 2.33364
+Geometric average = 4.30072
+Median = 5
+
+5.6          
+5.2          
+4.8  X     X 
+4.4          
+4.0      X   
+3.6          
+3.2          
+2.8          
+2.4          
+2.0    X     
+     A D G M
