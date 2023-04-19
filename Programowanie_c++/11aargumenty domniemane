@@ -1,0 +1,12 @@
+//argumenty domniemane
+#include<iostream>
+using namespace std;
+
+	void f(int a, int b, int c=1){
+
+	}
+
+int main(){
+f(a,b) //użyje za c 1
+f(a,b,2)//użyje za c 2
+
