@@ -1,6 +1,6 @@
 # CPP
 
-##Short programs and bigger projects written in cpp
+## Short programs and bigger projects written in cpp:
 
 * Histogram i statystyki - program create histogram(txt) from data in file and calculate its statistics.
 * Kalkulator - small program performing basic calculator operations. Resistant to incorrect input.
